@@ -26,7 +26,7 @@ Job seekers often struggle with tailoring their resumes to specific job descript
 
 This project is a comprehensive *Resume and Job Description Analyzer** developed using the *MERN stack (MongoDB, Express.js, React.js, Node.js)*, designed to streamline the job application process for both job seekers and recruiters. The platform allows users to upload their resumes and input job descriptions to generate tailored keyword analysis, match scores, and actionable suggestions for optimization. It leverages advanced **Natural Language Processing (NLP)** techniques to extract keywords and assess the alignment between resumes and job descriptions, helping users identify skill gaps, enhance keyword relevance, and optimize their resumes for Applicant Tracking Systems (ATS).
 
-A key feature of the platform is the User Project Section, where users can share their personal projects, complete with detailed descriptions, relevant tags, and direct links to demos or source code repositories. This collaborative space fosters networking, inspiration, and knowledge sharing, while also providing recruiters with a richer profile of potential candidates.
+A key feature of the platform is the User Project Section, where users can share their projects, complete with detailed descriptions, relevant tags, and direct links to demos or source code repositories. This collaborative space fosters networking, inspiration, and knowledge sharing, while also providing recruiters with a richer profile of potential candidates.
 
 
 ## Tech Stack
